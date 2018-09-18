@@ -13,8 +13,8 @@
       "path---002-jsx-2-e73fe187f06b287ea3dc.js.map"
     ],
     "path---4": [
-      "path---4-52070dc36f7ad69dfd90.js",
-      "path---4-52070dc36f7ad69dfd90.js.map"
+      "path---4-288f8359c0c387200612.js",
+      "path---4-288f8359c0c387200612.js.map"
     ],
     "path---007-amsterdam-pwa-realworld-prepack": [
       "path---007-amsterdam-pwa-realworld-prepack-6579a7611f3108599067.js",
@@ -41,8 +41,8 @@
       "path---013-gastbyjs-5dd74c5cadb0432cb768.js.map"
     ],
     "path---5": [
-      "path---5-882c767303e3117fe345.js",
-      "path---5-882c767303e3117fe345.js.map"
+      "path---5-ea41427f021a4ca903f6.js",
+      "path---5-ea41427f021a4ca903f6.js.map"
     ],
     "path---005-idiomatic-redux": [
       "path---005-idiomatic-redux-4a8531cdb31fe7fd10e1.js",
@@ -69,24 +69,24 @@
       "path---016-react-16-beta-966eff0d0f4cf267f7f5.js.map"
     ],
     "path---021-bitbucket-pipelines": [
-      "path---021-bitbucket-pipelines-39935fc584614e46a740.js",
-      "path---021-bitbucket-pipelines-39935fc584614e46a740.js.map"
+      "path---021-bitbucket-pipelines-692d1aebfec89bf27f96.js",
+      "path---021-bitbucket-pipelines-692d1aebfec89bf27f96.js.map"
     ],
     "path---014-preact-rocks": [
       "path---014-preact-rocks-dad75ec7661b4508221b.js",
       "path---014-preact-rocks-dad75ec7661b4508221b.js.map"
     ],
     "path---index": [
-      "path---index-a34215ea7d8f0fa4e9c7.js",
-      "path---index-a34215ea7d8f0fa4e9c7.js.map"
+      "path---index-3e89aa535ee37e44a8d8.js",
+      "path---index-3e89aa535ee37e44a8d8.js.map"
     ],
     "path---015-sci-fi-story-about-react": [
       "path---015-sci-fi-story-about-react-77b50020ec0db1341e57.js",
       "path---015-sci-fi-story-about-react-77b50020ec0db1341e57.js.map"
     ],
     "path---2": [
-      "path---2-4fb1db94b40466125819.js",
-      "path---2-4fb1db94b40466125819.js.map"
+      "path---2-cfe892f055a4159dc1cf.js",
+      "path---2-cfe892f055a4159dc1cf.js.map"
     ],
     "path---001-react-fiber": [
       "path---001-react-fiber-1a1d13d3bc8c669c7013.js",
@@ -105,8 +105,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---3": [
-      "path---3-ad4dbbb3858d44755775.js",
-      "path---3-ad4dbbb3858d44755775.js.map"
+      "path---3-8f0080df5db977ccaa88.js",
+      "path---3-8f0080df5db977ccaa88.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -121,9 +121,9 @@
       "path---011-webpack-3-babel-7-mobx-state-tree-preact-egghead-3a9a6c5f10a45670371d.js.map"
     ],
     "app": [
-      "app-62326417ea7dd31f7be6.js",
+      "app-a5fc2b33312bc030f9d3.js",
       "build-js-styles.css",
-      "app-62326417ea7dd31f7be6.js.map",
+      "app-a5fc2b33312bc030f9d3.js.map",
       "build-js-styles.css.map"
     ],
     "path---012-webpack-pnpm-typescript": [
@@ -133,6 +133,10 @@
     "path---017-webpack-4-egghead-stackblitz-vue-2-preact-npmtrends": [
       "path---017-webpack-4-egghead-stackblitz-vue-2-preact-npmtrends-4acec4be67c1351c1ab8.js",
       "path---017-webpack-4-egghead-stackblitz-vue-2-preact-npmtrends-4acec4be67c1351c1ab8.js.map"
+    ],
+    "path---022-the-phoenix-project-book": [
+      "path---022-the-phoenix-project-book-e2f568b4a990a15028a6.js",
+      "path---022-the-phoenix-project-book-e2f568b4a990a15028a6.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
